@@ -55,7 +55,7 @@ git clone https://github.com/anujadevelops/Sequence-Game.git
 ```
 ## 2️⃣ Navigate to the project directory:
 ```
-cd sequence-game
+cd Sequence-Game
 ```
 ## 3️⃣  Run the application:
 ```
