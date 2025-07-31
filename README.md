@@ -39,18 +39,17 @@
 
 ## 💻 Installation
 ## 1️⃣ Clone the repository:
-```
 ✅ 1. Requirements:
 - Python 3.8+
 - PySide6 GUI library  
 Install via pip:
-```bash
+```
 pip install PySide6
+```
 ---
-
 ✅ 2. Download the Project:
-- Clone this repository using Git:
-```bash
+Clone this repository using Git:
+```
 git clone https://github.com/anujadevelops/Sequence-Game.git
 ```
 ## 2️⃣ Navigate to the project directory:
@@ -58,14 +57,13 @@ git clone https://github.com/anujadevelops/Sequence-Game.git
 cd Sequence-Game
 ```
 ## 3️⃣  Run the application:
-```
 Run using the command line:
+```
 python SequenceGame.py
-
 ```
 ## 4️⃣ Build .exe (Optional)
-```
 Use PyInstaller to build a Windows .exe file and run:
+```
 pip install pyinstaller
 pyinstaller --onefile --noconsole SequenceGame.py
 ```
