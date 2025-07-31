@@ -65,8 +65,12 @@ python SequenceGame.py
 Use PyInstaller to build a Windows .exe file and run:
 ```
 pip install pyinstaller
+```
+```
 pyinstaller --onefile --noconsole SequenceGame.py
 ```
+
+---
 
 ## 🛠️ Features in Detail
 The Sequence Game offers the following core features:
